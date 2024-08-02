@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/e4c6b723ce57469e967a45fd82af7208/artifacts
+end_time: 1722571509900
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: e4c6b723ce57469e967a45fd82af7208
+run_name: nervous-snipe-45
+run_uuid: e4c6b723ce57469e967a45fd82af7208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571497668
+status: 3
+tags: []
+user_id: user

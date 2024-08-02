@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/2178c4a3bd2a430b89415a0309a4dbda/artifacts
+end_time: 1722571899294
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: 2178c4a3bd2a430b89415a0309a4dbda
+run_name: masked-fowl-140
+run_uuid: 2178c4a3bd2a430b89415a0309a4dbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571886482
+status: 3
+tags: []
+user_id: user

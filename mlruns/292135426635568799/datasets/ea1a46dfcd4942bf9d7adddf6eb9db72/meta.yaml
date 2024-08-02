@@ -1,0 +1,11 @@
+digest: a300c5fe
+name: training
+profile: '{"num_rows": 712, "num_elements": 4272}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Pclass", "required": true},
+  {"type": "string", "name": "Sex", "required": true}, {"type": "double", "name":
+  "Age", "required": false}, {"type": "double", "name": "Fare", "required": true},
+  {"type": "string", "name": "Embarked", "required": false}, {"type": "long", "name":
+  "family", "required": true}]}'
+source: '{"tags": {"mlflow.user": "user", "mlflow.source.name": "C:\\Users\\user\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

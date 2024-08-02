@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/ff90237fda22497aaa9a49a886cf775a/artifacts
+end_time: 1722571949544
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: ff90237fda22497aaa9a49a886cf775a
+run_name: zealous-frog-767
+run_uuid: ff90237fda22497aaa9a49a886cf775a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571936877
+status: 3
+tags: []
+user_id: user

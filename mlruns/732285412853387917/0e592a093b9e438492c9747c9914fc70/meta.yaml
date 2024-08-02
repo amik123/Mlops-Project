@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/0e592a093b9e438492c9747c9914fc70/artifacts
+end_time: 1722571975407
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: 0e592a093b9e438492c9747c9914fc70
+run_name: peaceful-bug-506
+run_uuid: 0e592a093b9e438492c9747c9914fc70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571962725
+status: 3
+tags: []
+user_id: user

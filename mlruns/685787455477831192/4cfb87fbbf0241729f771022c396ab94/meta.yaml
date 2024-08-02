@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/685787455477831192/4cfb87fbbf0241729f771022c396ab94/artifacts
+end_time: 1722569584665
+entry_point_name: ''
+experiment_id: '685787455477831192'
+lifecycle_stage: active
+run_id: 4cfb87fbbf0241729f771022c396ab94
+run_name: bald-croc-752
+run_uuid: 4cfb87fbbf0241729f771022c396ab94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722569558178
+status: 3
+tags: []
+user_id: user

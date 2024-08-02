@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/3c5ba88ef0e14e5fab74b1fe57e0b380/artifacts
+end_time: 1722571780212
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: 3c5ba88ef0e14e5fab74b1fe57e0b380
+run_name: burly-hen-867
+run_uuid: 3c5ba88ef0e14e5fab74b1fe57e0b380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571767168
+status: 3
+tags: []
+user_id: user

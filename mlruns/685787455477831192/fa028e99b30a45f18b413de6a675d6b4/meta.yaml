@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/685787455477831192/fa028e99b30a45f18b413de6a675d6b4/artifacts
+end_time: 1722569584665
+entry_point_name: ''
+experiment_id: '685787455477831192'
+lifecycle_stage: active
+run_id: fa028e99b30a45f18b413de6a675d6b4
+run_name: zealous-horse-666
+run_uuid: fa028e99b30a45f18b413de6a675d6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722569558178
+status: 3
+tags: []
+user_id: user

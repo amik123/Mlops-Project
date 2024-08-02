@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/761c51d1fc704d03ad7d81ed7ce0510f/artifacts
+end_time: 1722571459995
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: 761c51d1fc704d03ad7d81ed7ce0510f
+run_name: dazzling-cow-597
+run_uuid: 761c51d1fc704d03ad7d81ed7ce0510f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571448464
+status: 3
+tags: []
+user_id: user

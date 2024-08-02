@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/a37139b951c542b98d2db70390cbb42a/artifacts
+end_time: 1722571626986
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: a37139b951c542b98d2db70390cbb42a
+run_name: gentle-ox-681
+run_uuid: a37139b951c542b98d2db70390cbb42a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571615518
+status: 3
+tags: []
+user_id: user

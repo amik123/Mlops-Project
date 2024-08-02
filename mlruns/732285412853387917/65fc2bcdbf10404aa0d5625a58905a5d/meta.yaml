@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/65fc2bcdbf10404aa0d5625a58905a5d/artifacts
+end_time: 1722571752671
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: 65fc2bcdbf10404aa0d5625a58905a5d
+run_name: luminous-toad-831
+run_uuid: 65fc2bcdbf10404aa0d5625a58905a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571741745
+status: 3
+tags: []
+user_id: user

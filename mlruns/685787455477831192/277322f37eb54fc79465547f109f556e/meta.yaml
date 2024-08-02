@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/685787455477831192/277322f37eb54fc79465547f109f556e/artifacts
+end_time: 1722569584665
+entry_point_name: ''
+experiment_id: '685787455477831192'
+lifecycle_stage: active
+run_id: 277322f37eb54fc79465547f109f556e
+run_name: dapper-kit-627
+run_uuid: 277322f37eb54fc79465547f109f556e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722569558178
+status: 3
+tags: []
+user_id: user

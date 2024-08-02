@@ -1,0 +1,11 @@
+digest: 6be2a6c0
+name: dataset
+profile: '{"num_rows": 179, "num_elements": 1074}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Pclass", "required": true},
+  {"type": "string", "name": "Sex", "required": true}, {"type": "double", "name":
+  "Age", "required": false}, {"type": "double", "name": "Fare", "required": true},
+  {"type": "string", "name": "Embarked", "required": true}, {"type": "long", "name":
+  "family", "required": true}]}'
+source: '{"tags": {"mlflow.user": "user", "mlflow.source.name": "C:\\Users\\user\\anaconda3\\lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

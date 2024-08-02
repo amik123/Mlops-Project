@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/a94b362bf0d04f1692adbd9a73514309/artifacts
+end_time: 1722571497599
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: a94b362bf0d04f1692adbd9a73514309
+run_name: able-vole-70
+run_uuid: a94b362bf0d04f1692adbd9a73514309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571484648
+status: 3
+tags: []
+user_id: user

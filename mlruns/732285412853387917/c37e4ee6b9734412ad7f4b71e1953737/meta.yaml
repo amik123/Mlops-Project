@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/c37e4ee6b9734412ad7f4b71e1953737/artifacts
+end_time: 1722571767011
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: c37e4ee6b9734412ad7f4b71e1953737
+run_name: smiling-smelt-106
+run_uuid: c37e4ee6b9734412ad7f4b71e1953737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571752787
+status: 3
+tags: []
+user_id: user

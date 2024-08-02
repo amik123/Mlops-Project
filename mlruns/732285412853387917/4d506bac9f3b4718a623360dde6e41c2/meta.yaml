@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/4d506bac9f3b4718a623360dde6e41c2/artifacts
+end_time: 1722571992062
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: 4d506bac9f3b4718a623360dde6e41c2
+run_name: thundering-toad-701
+run_uuid: 4d506bac9f3b4718a623360dde6e41c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571975531
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/bcae4a3cb5e54e26a037e80879933bc2/artifacts
+end_time: 1722571873994
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: bcae4a3cb5e54e26a037e80879933bc2
+run_name: puzzled-zebra-73
+run_uuid: bcae4a3cb5e54e26a037e80879933bc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571861401
+status: 3
+tags: []
+user_id: user

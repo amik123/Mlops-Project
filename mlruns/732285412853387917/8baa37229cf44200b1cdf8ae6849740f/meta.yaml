@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/8baa37229cf44200b1cdf8ae6849740f/artifacts
+end_time: 1722571861276
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: 8baa37229cf44200b1cdf8ae6849740f
+run_name: intrigued-finch-150
+run_uuid: 8baa37229cf44200b1cdf8ae6849740f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571848215
+status: 3
+tags: []
+user_id: user

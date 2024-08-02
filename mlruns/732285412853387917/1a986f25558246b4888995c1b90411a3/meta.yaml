@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/1a986f25558246b4888995c1b90411a3/artifacts
+end_time: 1722571741635
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: 1a986f25558246b4888995c1b90411a3
+run_name: amazing-mole-383
+run_uuid: 1a986f25558246b4888995c1b90411a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571730438
+status: 3
+tags: []
+user_id: user

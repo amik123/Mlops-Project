@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/732285412853387917/f52eb6e611c44eddb3a1896863b75161/artifacts
+end_time: 1722571592622
+entry_point_name: ''
+experiment_id: '732285412853387917'
+lifecycle_stage: active
+run_id: f52eb6e611c44eddb3a1896863b75161
+run_name: sneaky-foal-854
+run_uuid: f52eb6e611c44eddb3a1896863b75161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722571581602
+status: 3
+tags: []
+user_id: user

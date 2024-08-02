@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/685787455477831192/f81a20f827314869afd7058c11b13a65/artifacts
+end_time: 1722569584665
+entry_point_name: ''
+experiment_id: '685787455477831192'
+lifecycle_stage: active
+run_id: f81a20f827314869afd7058c11b13a65
+run_name: enthused-deer-643
+run_uuid: f81a20f827314869afd7058c11b13a65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722569558178
+status: 3
+tags: []
+user_id: user
